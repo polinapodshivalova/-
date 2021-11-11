@@ -1,0 +1,15 @@
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\bin\Debug\IdealMassCalculate.exe.config
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\bin\Debug\IdealMassCalculate.exe
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\bin\Debug\IdealMassCalculate.pdb
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate.csproj.AssemblyReference.cache
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\MainWindow.g.cs
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\App.g.cs
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate_MarkupCompile.cache
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate_MarkupCompile.lref
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\MainWindow.baml
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate.g.resources
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate.Properties.Resources.resources
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate.csproj.GenerateResource.cache
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate.csproj.CoreCompileInputs.cache
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate.exe
+C:\Users\d1choff\Desktop\IdealMassCalculate-master\IdealMassCalculate\obj\Debug\IdealMassCalculate.pdb
